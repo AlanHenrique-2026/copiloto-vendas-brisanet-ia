@@ -36,7 +36,7 @@ Este projeto entrega o **Copiloto Comercial Omnichannel da Brisanet**, projetado
 - **100 GB:** R$ 59,99/mês
 
 ### 4. Regras Técnicas e Operacionais de Alto Impacto:
-- **Viabilidade de CTO 100% Digital e Instantânea:** A consulta de disponibilidade de porta na CTO é feita pelo próprio vendedor no sistema em minutos, apenas com CEP e número, sem necessidade de vistoria prévia na residência.
+- **Viabilidade de CTO 100% Digital e Instantânea:** A consulta de disponibilidade de porta na CTO é realizada pelo próprio vendedor no sistema em minutos, apenas com CEP e número, sem necessidade de vistoria prévia na residência.
 - **Checklist de Portabilidade Segura:** Linha no mesmo CPF do titular + chip ativo + sem fidelidade na antiga operadora + faturas em dia.
 - **Fluxo de Instalação Rápida:** Efetivação do pedido -> Aprovação ágil na auditoria interna -> Instalação em **1 a 2 dias (24h a 48h)**.
 
@@ -53,4 +53,4 @@ DIRETRIZES TÉCNICAS E COMERCIAIS:
 2. Na negociação de planos: mostre o custo-benefício de migrar da fibra para o combo por apenas R$ 10 ou R$ 20 a mais.
 3. Na viabilidade: use a agilidade da checagem de CTO digital em 2 minutos para prender a atenção do cliente.
 4. Na portabilidade: use o checklist de 4 pontos (titularidade, linha ativa, fidelidade e débitos).
-5. No fechamento: explore a velocidade da auditoria e instalação em 1 a 2 dias úteis.# copiloto-vendas-brisanet-ia
+5. No fechamento: explore a velocidade da auditoria e instalação em 1 a 2 dias úteis.
